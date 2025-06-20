@@ -26,3 +26,6 @@ Once done, you'll see `(virt)` before your command prompt, confirming you're suc
 
 If you choose to have the bot run wild within your envronment you can simply get into the folder where the code file is kept and double click the python file. If you use the bot often you can always create a shortcut
 on your desktop. Don't forget you must have a chatgpt api an order to use the bot.
+
+                     
+*"This chatbot represents my initial venture into chatbot development, and as such, its underlying code is now outdated."*
